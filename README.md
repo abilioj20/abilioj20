@@ -6,4 +6,4 @@
 [<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white&labelColor=4B8BBE" />]() 
 
 # *Connect with Me*
-<img alt="" src="https://twitter.com/abilio_j">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abilio_j?label=Follow%20Me&style=social">
